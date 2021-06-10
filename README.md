@@ -27,6 +27,13 @@
 [<img  height="60" width="60" src="https://github.com/aparna8902/aparna8902/blob/master/Instagram.gif" />](https://www.instagram.com/aparna_jayathirth/)   
    
  ----
+                                                                                                      
+  <details>
+         <summary> <b> GitHub stats ✨ </b>  </summary>  
+          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparna8902&show_icons=true&theme=highcontrast&" alt="stats" /></p>               </details>
+          
+ -----
+                                                                                                      
  <img src="https://komarev.com/ghpvc/?username=aparna8902" alt="profile_view">
                                                                                                    
                                                                                                                  
