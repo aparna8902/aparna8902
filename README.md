@@ -22,10 +22,9 @@
 
 ----
 
-
 ## Contact
-[<img align="left" height="50" width="50" src="https://github.com/aparna8902/aparna8902/blob/master/LinkedIn.gif" />](https://www.linkedin.com/in/aparna-jayathirth-4b45261b4/)
-[<img align="left" height="50" width="50" src="https://github.com/aparna8902/aparna8902/blob/master/Instagram.gif" />](https://www.instagram.com/aparna_jayathirth/)                                                                                                           
+[<img  height="50" width="50" src="https://github.com/aparna8902/aparna8902/blob/master/LinkedIn.gif" />](https://www.linkedin.com/in/aparna-jayathirth-4b45261b4/)
+[<img  height="50" width="50" src="https://github.com/aparna8902/aparna8902/blob/master/Instagram.gif" />](https://www.instagram.com/aparna_jayathirth/)                                                                                                           
                                                                                                                  
 <!--
 **aparna8902/aparna8902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
