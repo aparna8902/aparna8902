@@ -1,4 +1,4 @@
-## Hey there! <img align="left" height="50" width="90" src="https://github.com/aparna8902/aparna8902/blob/master/doggyhey.gif" />
+## Hey there! <img height="50" width="90" src="https://github.com/aparna8902/aparna8902/blob/master/doggyhey.gif" />
 
 -  🌱 I’m currently learning React.js and python
 -  ✨ I’m a member at [@cognizance](https://github.com/cognizance-amrita), a student club at Amrita School of Engineering, Chennai
