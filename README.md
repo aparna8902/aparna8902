@@ -22,7 +22,7 @@
 
 ----
 
-## Contact
+## Connect @
 [<img  height="60" width="60" src="https://github.com/aparna8902/aparna8902/blob/master/LinkedIn.gif" />](https://www.linkedin.com/in/aparna-jayathirth-4b45261b4/)
 [<img  height="60" width="60" src="https://github.com/aparna8902/aparna8902/blob/master/Instagram.gif" />](https://www.instagram.com/aparna_jayathirth/)                                                                                                           
                                                                                                                  
