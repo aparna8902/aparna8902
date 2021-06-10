@@ -28,7 +28,7 @@
    
  ----
                                                                                                       
-  <details>
+  <details open>
          <summary> <b> GitHub stats ✨ </b>  </summary>  
           <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparna8902&show_icons=true&theme=highcontrast&" alt="stats" /></p>               </details>
           
