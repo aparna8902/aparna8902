@@ -1,6 +1,6 @@
 ## Hey there! [<img height="70" width="90" src="https://github.com/aparna8902/aparna8902/blob/master/hello.gif" />](https://github.com/aparna8902)
 
--  🌱 I’m currently learning React.js and python
+-  🌱 I’m currently learning Python and Django
 -  ✨ I’m a member at [@cognizance](https://github.com/cognizance-amrita), a student club at Amrita School of Engineering Chennai
 -  ⚡ Fun fact: I am trying to learn Japanese
 -  😄 Pronouns: She/her
